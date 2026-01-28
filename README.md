@@ -1,16 +1,45 @@
-# React + Vite
+# Future Interns – Task 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project: Advithi Catering Services Website
 
-Currently, two official plugins are available:
+### Description
+A responsive catering service website designed to showcase menu offerings and allow customers to send event enquiries easily.  
+The website provides a professional online presence for a local catering business based in Mangaluru, Karnataka.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features
+- Modern and responsive UI
+- Categorized menu with smooth filtering
+- Scroll-based animations
+- Contact & enquiry form
+- Real-time email enquiry system using EmailJS
+- Deployed and accessible via live link
 
-## React Compiler
+### Business Impact
+This website helps Advithi Catering Services grow by providing an online platform where customers can explore the complete menu and submit enquiries instantly.  
+The integrated email enquiry system reduces manual follow-ups, improves response time, and helps convert enquiries into confirmed bookings.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Project Structure
+advithi-catering/
+├── dist/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── App.css
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
 
-## Expanding the ESLint configuration
+### Tech Stack
+- React (Vite)
+- CSS
+- EmailJS
+- Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Live Demo
+https://darling-scone-ba9f0e.netlify.app/
