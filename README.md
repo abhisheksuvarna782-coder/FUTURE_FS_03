@@ -42,4 +42,4 @@ advithi-catering/
 - Netlify
 
 ### Live Demo
-https://darling-scone-ba9f0e.netlify.app/
+https://jazzy-cucurucho-bef508.netlify.app/
