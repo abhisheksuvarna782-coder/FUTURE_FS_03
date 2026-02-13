@@ -42,4 +42,4 @@ advithi-catering/
 - Netlify
 
 ### Live Demo
-https://jazzy-cucurucho-bef508.netlify.app/
+https://delicate-eclair-bb81c1.netlify.app/
