@@ -1,6 +1,6 @@
 ## Future Interns – Task 3
 
-## Project: Advithi Catering Services Website
+## Project: Advithi Catering Services Website.
 
 ### Description
 A responsive catering service website designed to showcase menu offerings and allow customers to send event enquiries easily.  
