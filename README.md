@@ -3,7 +3,7 @@
 ## Project: Advithi Catering Services Website.
 
 ### Description.
-A responsive catering service website designed to showcase menu offerings and allow customers to send event enquiries easily.  
+A responsive catering service website designed to showcase menu offerings and allow customers to send event enquiries easily 
 The website provides a professional online presence for a local catering business based in Mangaluru, Karnataka.
 
 ### Features
