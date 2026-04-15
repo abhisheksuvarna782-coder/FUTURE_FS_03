@@ -8,7 +8,7 @@ The website provides a professional online presence for a local catering busines
 
 ### Features
 - Modern and responsive UI
-- Categorized menu with smooth filtering.
+- Categorized menu with smooth filtering
 - Scroll-based animations
 - Contact & enquiry form
 - Real-time email enquiry system using EmailJS
